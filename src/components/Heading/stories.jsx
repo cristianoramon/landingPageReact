@@ -21,3 +21,8 @@ export default {
 }
 
 export const Templet = (args) => <Heading {...args} />
+
+// Dark.args = {
+//     children:'O texto',
+//     colorDark:false,
+// }
